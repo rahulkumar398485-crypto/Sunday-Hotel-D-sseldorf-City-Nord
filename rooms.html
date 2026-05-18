@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-key="rooms_page_title">Rooms | Sunday Hotel Düsseldorf City Nord</title>
+
+    <meta
+      name="description"
+      data-key="rooms_meta"
+      content="Comfortable rooms at Sunday Hotel Düsseldorf City Nord including Standard Single, Standard Double, Twin, Superior and Family Rooms with free Wi-Fi, workspace desk and modern bathroom amenities."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="rooms.css" />
+  </head>
+
+  <body>
+    <header class="site-header">
+    <div class="header-container">
+      <div class="logo">
+        <a href="index.html">
+          <img
+            src="images/output-onlinepngtools.png"
+            alt="Sunday Hotel Düsseldorf City Nord"
+            data-key-alt="logo_alt"
+          />
+        </a>
+      </div>
+
+      <div class="nav-container">
+        <nav class="main-navigation" aria-label="Main Navigation">
+          <ul class="nav-menu">
+            <li class="has-dropdown">
+              <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+              <ul class="dropdown-menu">
+                <li><a href="about.html" data-key="nav_story">Our Story</a></li>
+                <li><a href="contact.html" data-key="nav_contact">Contact Us</a></li>
+                <!-- <li><a href="gastronomy.html" data-key="nav_gastronomy">Dining</a></li> -->
+                <li><a href="tourist-attractions.html" data-key="nav_attractions">Tourist-Attractions</a></li>
+                <li><a href="gallery.html" data-key="nav_gallery">Gallery</a></li>
+              </ul>
+            </li>
+
+            <li class="has-dropdown">
+              <a href="#" aria-haspopup="true" data-key="nav_accommodation">Accommodation</a>
+              <ul class="dropdown-menu">
+                <li><a href="rooms.html" data-key="nav_hotel">Rooms</a></li>
+              </ul>
+            </li>
+
+            <!-- <li class="has-dropdown">
+              <a href="#" aria-haspopup="true" data-key="nav_business">Business & Groups</a>
+              <ul class="dropdown-menu">
+                <li><a href="events.html" data-key="nav_events">Meetings & Events</a></li>
+                <li><a href="group-stay.html" data-key="nav_groups">Group Enquiries</a></li>
+              </ul>
+            </li> -->
+            <li><a href="gastronomy.html" data-key="nav_gastronomy">Dining</a></li>
+
+            <li><a href="group-stay.html" data-key="nav_groups">Group Stay</a></li>
+            <li><a href="events.html" data-key="nav_events">Meetings & Events</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="nav-book">
+        <a href="#" class="btn-book" data-key="book_now">Book Now</a>
+        <button id="langToggle" class="lang-btn">DE</button>
+      </div>
+
+      <div class="mobile-menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </header>
+
+    <section
+      class="hero-section"
+      style="background-image: url('images/Rooms/Room11.jpg')"
+    >
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1 data-key="rooms_title">Rooms</h1>
+        <p data-key="rooms_desc">Comfortable rooms for business, leisure and transit stays</p>
+        <a href="#rooms" class="btn-primary" data-key="rooms_cta">Explore Rooms</a>
+      </div>
+    </section>
+
+    <section class="overview-section">
+      <div class="section-label" data-key="rooms_label">Accommodation</div>
+
+      <div class="overview-container">
+        <div class="overview-divider"></div>
+
+        <h2 data-key="rooms_heading">Comfort & Convenience</h2>
+
+        <p data-animate data-key="rooms_text">
+          Sunday Hotel Düsseldorf City Nord offers 190 comfortable non-smoking rooms.
+          All rooms are double rooms for single or double occupancy and include free Wi-Fi,
+          a flat-screen TV, a large workspace desk by the window and modern bathroom facilities
+          with large shower, hairdryer, vanity mirror and heat lamp.
+        </p>
+
+        <div class="overview-divider"></div>
+      </div>
+    </section>
+
+    <section class="rooms-section" id="rooms">
+      <div class="section-label" data-key="room_types">Room Types</div>
+      <h2 data-key="choose_room">Choose Your Room</h2>
+
+      <div class="rooms-filter">
+        <button class="filter-btn active" data-filter="all" data-key="filter_all">All</button>
+        <button class="filter-btn" data-filter="standard" data-key="filter_standard">Standard</button>
+        <button class="filter-btn" data-filter="twin" data-key="filter_twin">Twin</button>
+        <button class="filter-btn" data-filter="superior" data-key="filter_superior">Superior</button>
+        <button class="filter-btn" data-filter="family" data-key="filter_family">Family</button>
+      </div>
+
+      <div class="rooms-container">
+        <div class="room-card" data-type="standard">
+          <img src="images/Rooms/Room1.jpg" alt="Standard Single Room" />
+          <h3 data-key="room_standard_single">Standard Single Room</h3>
+          <p data-key="room_standard_single_desc">
+            Comfortable room for single occupancy with free Wi-Fi, flat-screen TV,
+            workspace desk and modern bathroom amenities.
+          </p>
+          <button class="details-btn" data-room="standardSingle" data-key="details_btn">Details</button>
+        </div>
+
+        <div class="room-card" data-type="standard">
+          <img src="images/Rooms/Room2.jpg" alt="Standard Double Room" />
+          <h3 data-key="room_standard_double">Standard Double Room</h3>
+          <p data-key="room_standard_double_desc">
+            A comfortable double room for one or two guests, ideal for business trips,
+            city breaks and short stays in Düsseldorf.
+          </p>
+          <button class="details-btn" data-room="standardDouble" data-key="details_btn">Details</button>
+        </div>
+
+        <div class="room-card" data-type="twin">
+          <img src="images/Rooms/Room12.jpg" alt="Twin Room" />
+          <h3 data-key="room_twin">Twin Room</h3>
+          <p data-key="room_twin_desc">
+            Practical twin accommodation with comfortable bedding, workspace,
+            free Wi-Fi and modern bathroom facilities.
+          </p>
+          <button class="details-btn" data-room="twin" data-key="details_btn">Details</button>
+        </div>
+
+        <div class="room-card" data-type="superior">
+          <img src="images/Rooms/Room7.jpg" alt="Superior Room" />
+          <h3 data-key="room_superior">Superior Room</h3>
+          <p data-key="room_superior_desc">
+            Enhanced comfort for guests who want extra space, a relaxed atmosphere
+            and convenient in-room amenities.
+          </p>
+          <button class="details-btn" data-room="superior" data-key="details_btn">Details</button>
+        </div>
+
+        <div class="room-card" data-type="family">
+          <img src="images/Rooms/Room13.jpg" alt="Family Room" />
+          <h3 data-key="room_family">Family Room</h3>
+          <p data-key="room_family_desc">
+            Comfortable accommodation for families with flexible space, free Wi-Fi
+            and pet-friendly options available.
+          </p>
+          <button class="details-btn" data-room="family" data-key="details_btn">Details</button>
+        </div>
+      </div>
+
+      <div class="modal" id="roomModal">
+        <div class="modal-content">
+          <span class="modal-close">&times;</span>
+          <h3 id="modalTitle"></h3>
+          <div id="modalDetails"></div>
+          <a href="#" class="btn-primary" data-key="book_room">Book Now</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="treatments-section">
+      <div class="treatments-container">
+        <div class="treatments-card">
+          <h3 data-key="rooms_dog_title">Pet-Friendly Room Options</h3>
+
+          <p data-key="rooms_dog_desc1">
+            Small dogs are welcome at Sunday Hotel Düsseldorf City Nord, making the hotel
+            a convenient choice for guests travelling with pets.
+          </p>
+
+          <p data-key="rooms_dog_desc2">
+            A charge of €12.00 per dog per night applies. Please inform the hotel in advance
+            when travelling with your dog so the team can prepare your stay.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="cta_title">Book Your Room</h2>
+
+        <p data-key="cta_desc">
+          Enjoy a comfortable stay with smart access to Düsseldorf city centre, Messe Düsseldorf,
+          the airport, PSD Bank Dome and nearby attractions.
+        </p>
+
+        <p>
+          <a href="mailto:reception.duesseldorf@hotelssunday.com">reception.duesseldorf@hotelssunday.com</a>
+          |
+          <a href="tel:+490000000000">+49 000 000000</a>
+        </p>
+
+        <a href="#" class="btn-primary" data-key="book_now">Book Now</a>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us">Contact Us</a>
+          <address>
+            Sunday Hotel Düsseldorf City Nord<br />
+            Düsseldorf, Germany<br />
+            <a href="tel:+490000000000">+49 000 000000</a><br />
+            <a href="mailto:reception.duesseldorf@hotelssunday.com">reception.duesseldorf@hotelssunday.com</a><br />
+            <a href="mailto:reservations.duesseldorf@hotelssunday.com">reservations.duesseldorf@hotelssunday.com</a>
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+
+          <ul>
+           <li><a href="rooms.html" data-key="footer_rooms">Rooms</a></li>
+          <li><a href="dining.html" data-key="footer_dining">Dining</a></li>
+          <li><a href="group-stay.html" data-key="footer_groups">Group Stay</a></li>
+          <li><a href="meetings.html" data-key="footer_meetings">Meetings & Events</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+          <form action="#" method="POST" class="newsletter-form">
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              aria-label="Your Email"
+              data-key-placeholder="newsletter_placeholder"
+            />
+            <button class="btn" type="submit" aria-label="Subscribe to Newsletter" data-key="subscribe">
+              Subscribe
+            </button>
+            <input type="hidden" name="_captcha" value="false" />
+            <input type="hidden" name="_subject" value="New Newsletter Signup!" />
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Sunday Hotel Düsseldorf City Nord. 
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="rooms.js"></script>
+  </body>
+</html>

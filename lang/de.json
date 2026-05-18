@@ -1,0 +1,394 @@
+{
+  "page_title": "Sunday Hotel Düsseldorf City Nord",
+  "meta_description": "Übernachten Sie im Sunday Hotel Düsseldorf City Nord – komfortable Zimmer, Restaurant und Hotelbar, gruppenfreundliche Einrichtungen, Parkmöglichkeiten und eine gute Anbindung an die Düsseldorfer Innenstadt.",
+
+  "logo_alt": "Sunday Hotel Düsseldorf City Nord",
+  "alt_resort": "Hotelansicht",
+  "alt_apartment": "Komfortables Gästezimmer",
+  "alt_waterpark": "Restaurant und Frühstück",
+
+  "nav_about": "Über uns",
+  "nav_story": "Unsere Geschichte",
+  "nav_contact": "Kontakt",
+  "nav_gastronomy": "Gastronomie",
+  "nav_attractions": "Sehenswürdigkeiten",
+  "nav_gallery": "Galerie",
+  "nav_accommodation": "Unterkunft",
+  "nav_hotel": "Zimmer",
+  "nav_groups": "Gruppenaufenthalt",
+  "nav_events": "Tagungen & Veranstaltungen",
+
+  "book_now": "Jetzt buchen",
+
+  "hero_title": "Sunday Hotel Düsseldorf City Nord",
+  "hero_subtitle": "Komfortable Aufenthalte. Smartes Reisen. Düsseldorf mit Sunday entdecken.",
+  "hero_cta": "Aufenthalt buchen",
+
+  "hero_slide2_title": "190 komfortable Nichtraucherzimmer",
+  "hero_slide2_desc": "Doppelzimmer zur Einzel- oder Doppelnutzung mit kostenfreiem WLAN, Arbeitsplatz und modernen Badezimmern.",
+  "hero_slide2_cta": "Zimmer ansehen",
+
+  "hero_slide3_title": "Restaurant, Hotelbar & Gartenterrasse",
+  "hero_slide3_desc": "Genießen Sie Frühstück, regionale und internationale Küche sowie entspannte Drinks am Abend.",
+  "hero_slide3_cta": "Gastronomie entdecken",
+
+  "quote_text": "Moderner Komfort, smarte Verbindungen und entspannte Gastfreundschaft in Düsseldorf City Nord.",
+
+  "section_highlights": "Highlights",
+  "highlight_hotel": "Zimmer",
+  "highlight_apartments": "Gastronomie",
+  "highlight_spa": "Tagungen & Veranstaltungen",
+  "highlight_gastro": "Gruppenaufenthalt",
+  "highlight_family": "Sehenswürdigkeiten",
+  "highlight_contact": "Kontakt",
+
+  "section_discover": "Entdecken",
+  "discover_title": "Ein smarter Aufenthalt in Düsseldorf City Nord",
+  "discover_desc": "Das Sunday Hotel Düsseldorf City Nord bietet Geschäfts- und Freizeitreisenden einen einladenden und komfortablen Aufenthalt. Dank sehr guter Verkehrsanbindung erreichen Gäste die Messe Düsseldorf, den Flughafen, die Innenstadt, den PSD Bank Dome und wichtige Sehenswürdigkeiten bequem.",
+  "learn_more": "Mehr erfahren",
+
+  "section_accommodation": "Unterkunft",
+  "accommodation_title": "Komfortable Zimmer für Arbeit und Erholung",
+  "accommodation_desc": "Das Hotel verfügt über 190 komfortable Nichtraucherzimmer, alle als Doppelzimmer zur Einzel- oder Doppelnutzung gestaltet. Gäste genießen kostenfreies WLAN, Flachbild-TV, einen großen Arbeitsplatz am Fenster und moderne Badezimmer.",
+  "view_accommodation": "Zimmer ansehen",
+
+  "section_wellness": "Gastronomie",
+  "wellness_title": "Restaurant, Frühstück und Hotelbar",
+  "wellness_desc": "Starten Sie den Tag mit einem reichhaltigen kontinentalen Frühstücksbuffet mit warmen und kalten Speisen. Das Restaurant serviert entspannte internationale und regionale Küche, während Hotelbar und Gartenterrasse zum Abschalten einladen.",
+  "explore_wellness": "Gastronomie entdecken",
+
+  "section_explore": "Düsseldorf entdecken",
+  "explore_jasmund": "Düsseldorfer Innenstadt",
+  "explore_beach": "Rheinturm",
+  "explore_museum": "Altstadt",
+  "explore_festival": "Königsallee",
+
+  "contact_us": "Kontakt",
+  "quick_links": "Schnellzugriff",
+  "newsletter": "Newsletter",
+  "newsletter_placeholder": "Ihre E-Mail-Adresse",
+  "subscribe": "Abonnieren",
+
+  "footer_rooms": "Zimmer",
+  "footer_dining": "Gastronomie",
+  "footer_groups": "Gruppenaufenthalt",
+  "footer_meetings": "Tagungen & Veranstaltungen",
+  "footer_copy": "© 2026 Sunday Hotel Düsseldorf City Nord.",
+  
+  "about_page_title": "Über Sunday Hotel Düsseldorf City Nord",
+  "about_meta_description": "Entdecken Sie das Sunday Hotel Düsseldorf City Nord – ein modernes 4-Sterne-Hotel für Geschäfts- und Freizeitreisende mit komfortablen Zimmern, Dining, Tagungsmöglichkeiten, Parkplätzen und sehr guter Anbindung in Düsseldorf.",
+
+
+  "about_hero_title": "Sunday Hotel Düsseldorf City Nord",
+  "about_hero_desc": "Komfortable Aufenthalte, smartes Reisen und einfacher Zugang zu Düsseldorf.",
+
+  "about_section_story": "Unsere Geschichte",
+
+  "about_nature_title": "Ein modernes Hotel für Business & Freizeit",
+  "about_nature_desc": "Das Sunday Hotel Düsseldorf City Nord bietet Geschäfts- und Freizeitreisenden einen einladenden und komfortablen Aufenthalt. Dank der hervorragenden Verkehrsanbindung ist das Hotel ideal für Geschäftsreisen, Städtereisen, Gruppenaufenthalte und Zwischenstopps.",
+
+  "about_guest_title": "Komfort, Bequemlichkeit und Gastfreundschaft",
+  "about_guest_desc": "Gäste genießen geräumige Unterkünfte, Dining-Angebote und persönliche Gastfreundschaft in entspannter Atmosphäre. Das Hotel verfügt über 190 komfortable Nichtraucherzimmer, ein Restaurant, eine Hotelbar, eine Gartenterrasse und eine geräumige Garage mit 90 Parkplätzen.",
+
+  "about_location_label": "Lage",
+  "about_location_title": "Düsseldorf City Nord",
+  "about_location_desc": "Das Hotel liegt in Düsseldorf und bietet perfekte Anbindung an die Messe Düsseldorf, Esprit Arena, den Flughafen Düsseldorf, die Innenstadt und den PSD Bank Dome mit dem Auto und öffentlichen Verkehrsmitteln.",
+
+  "about_nearby": "Sehenswürdigkeiten in der Nähe:",
+  "about_attr1": "Düsseldorfer Innenstadt",
+  "about_attr2": "Altstadt",
+  "about_attr3": "Rheinturm",
+  "about_attr4": "Rheinufer",
+  "about_attr5": "Königsallee",
+  "about_attr6": "Gehry Bauten",
+
+  "about_why": "Warum Gäste unsere Lage lieben",
+  "about_why1": "Sehr gute Anbindung an die Messe Düsseldorf",
+  "about_why2": "Praktisch für Flughafen- und Transitgäste",
+  "about_why3": "Ideal für Geschäftsreisende und Gruppen",
+  "about_why4": "Einfach erreichbar mit Auto und öffentlichen Verkehrsmitteln",
+
+  "about_values_label": "Was wir bieten",
+  "about_values_title": "Alles für einen komfortablen Aufenthalt in Düsseldorf",
+
+  "about_val1_title": "190 komfortable Zimmer",
+  "about_val1_desc": "Nichtraucher-Doppelzimmer zur Einzel- oder Doppelnutzung mit kostenfreiem WLAN, Flachbild-TV, Arbeitsplatz und modernen Badezimmerausstattungen.",
+
+  "about_val2_title": "Restaurant & Hotelbar",
+  "about_val2_desc": "Genießen Sie internationale und regionale Küche, ein reichhaltiges kontinentales Frühstücksbuffet, eine komfortable Bar-Lounge und eine Gartenterrasse.",
+
+  "about_val3_title": "Tagungen & Gruppen",
+  "about_val3_desc": "Sechs flexible Einrichtungen für kleine und große Meetings, Gruppenaufenthalte, Busreisen und Firmenevents mit maßgeschneiderten Catering-Optionen.",
+
+  "about_val4_title": "Hundefreundlich",
+  "about_val4_desc": "Kleine Hunde sind im Sunday Hotel Düsseldorf City Nord gegen eine Gebühr von 12,00 € pro Hund und Nacht willkommen.",
+
+  "contact_page_title": "Kontakt Sunday Hotel Düsseldorf City Nord",
+  "contact_meta_description": "Kontaktieren Sie das Sunday Hotel Düsseldorf City Nord für Buchungen, Gruppenanfragen, Tagungen, Dining, Parkinformationen und komfortable Aufenthalte in Düsseldorf.",
+
+  "contact_title": "Kontakt",
+  "contact_desc": "Planen Sie Ihren Aufenthalt im Sunday Hotel Düsseldorf City Nord.",
+  "contact_cta": "Kontakt aufnehmen",
+
+  "contact_form_label": "Kontakt aufnehmen",
+  "contact_info_label": "Kontaktinformationen",
+  "contact_reach": "Erreichen Sie uns",
+  "contact_hotel_name": "Sunday Hotel Düsseldorf City Nord",
+
+  "contact_getting_here": "Anreise",
+  "contact_travel": "Anreise zum Sunday Hotel Düsseldorf City Nord",
+
+  "contact_train": "Mit öffentlichen Verkehrsmitteln",
+  "contact_train_desc": "Das Hotel bietet eine bequeme Anbindung an die Düsseldorfer Innenstadt, die Messe Düsseldorf, den PSD Bank Dome und weitere wichtige Ziele mit öffentlichen Verkehrsmitteln.",
+
+  "contact_car": "Mit dem Auto",
+  "contact_car_desc": "Das Sunday Hotel Düsseldorf City Nord ist mit dem Auto leicht erreichbar und bietet Gästen eine geräumige Garage mit 90 Parkplätzen.",
+
+  "contact_air": "Mit dem Flugzeug",
+  "contact_air_desc": "Der Flughafen Düsseldorf ist vom Hotel aus gut erreichbar, ideal für Geschäftsreisende, Gruppen und Transitgäste.",
+
+  "ta_page_title": "Düsseldorf entdecken | Sunday Hotel Düsseldorf City Nord",
+  "ta_meta_description": "Entdecken Sie Sehenswürdigkeiten in Düsseldorf nahe dem Sunday Hotel Düsseldorf City Nord, darunter Innenstadt, Altstadt, Rheinturm, Rheinufer, Königsallee und Gehry Bauten.",
+
+
+  "ta_title": "Düsseldorf entdecken",
+  "ta_desc": "Entdecken Sie Stadthighlights und Sehenswürdigkeiten rund um das Sunday Hotel Düsseldorf City Nord.",
+  "ta_cta": "Sehenswürdigkeiten entdecken",
+
+  "ta_label": "Stadthighlights",
+  "ta_overview_title": "Düsseldorf erleben",
+  "ta_overview_desc": "Das Sunday Hotel Düsseldorf City Nord ist ein praktischer Ausgangspunkt, um die beliebtesten Sehenswürdigkeiten Düsseldorfs zu entdecken. Von der Innenstadt und Altstadt bis zum Rheinturm, Rheinufer, der Königsallee und den Gehry Bauten genießen Gäste Kultur, Shopping, Architektur und Ausblicke am Rhein mit guter Anbindung vom Hotel.",
+
+  "ta_top_label": "Top-Sehenswürdigkeiten",
+  "ta_top_title": "Die Stadt entdecken",
+
+  "ta_attr1_title": "Düsseldorfer Innenstadt",
+  "ta_attr1_desc": "Entdecken Sie die lebendige Düsseldorfer Innenstadt mit Shopping, Restaurants, Geschäftsvierteln und kulturellen Erlebnissen.",
+
+  "ta_attr2_title": "Altstadt",
+  "ta_attr2_desc": "Erleben Sie Düsseldorfs berühmte Altstadt mit traditionellen Straßen, Restaurants, Bars und historischem Charme.",
+
+  "ta_attr3_title": "Rheinturm",
+  "ta_attr3_desc": "Genießen Sie den Panoramablick über Düsseldorf und den Rhein von einem der bekanntesten Wahrzeichen der Stadt.",
+
+  "ta_attr4_title": "Rheinufer",
+  "ta_attr4_desc": "Spazieren Sie entlang der Rheinpromenade und genießen Sie Flussblick, Cafés, Architektur und eine entspannte Stadtatmosphäre.",
+
+  "ta_attr5_title": "Königsallee",
+  "ta_attr5_desc": "Besuchen Sie Düsseldorfs elegante Einkaufsstraße, bekannt für Luxusboutiquen, Cafés und den malerischen Stadtgraben.",
+
+  "ta_attr6_title": "Gehry Bauten",
+  "ta_attr6_desc": "Sehen Sie die ikonischen Gehry Bauten im Düsseldorfer MedienHafen, ein Highlight für Architekturfreunde.",
+
+  "ta_details": "Details",
+
+  "ta_cta_title": "Planen Sie Ihren Aufenthalt in Düsseldorf",
+  "ta_cta_desc": "Übernachten Sie nahe Düsseldorfer Highlights mit komfortablen Zimmern, Dining, Parkmöglichkeiten und hervorragender Verkehrsanbindung.",
+
+  "gallery_page_title": "Galerie | Sunday Hotel Düsseldorf City Nord",
+  "gallery_meta_description": "Entdecken Sie die Fotogalerie des Sunday Hotel Düsseldorf City Nord mit Hotelansicht, Rezeption, Gästezimmern, Restaurant, Frühstücksbuffet, Lounge, Tagungsräumen und Düsseldorfer Stadthighlights.",
+
+  "gallery_title": "Galerie",
+  "gallery_desc": "Entdecken Sie das Sunday Hotel Düsseldorf City Nord",
+  "gallery_cta": "Galerie entdecken",
+
+  "gallery_label": "Momente im Hotel",
+  "gallery_heading": "Unsere Bereiche entdecken",
+
+  "gallery_all": "Alle",
+  "gallery_hotel": "Hotel",
+  "gallery_rooms": "Zimmer",
+  "gallery_dining": "Gastronomie",
+  "gallery_meetings": "Tagungen",
+  "gallery_city": "Düsseldorf",
+
+  "gallery_img1": "Moderne und einladende Hotelansicht",
+  "gallery_img2": "Einladender Rezeptionsbereich",
+  "gallery_img3": "Komfortable Gästezimmer mit Arbeitsplatz und modernen Annehmlichkeiten",
+  "gallery_img4": "Reichhaltiges kontinentales Frühstücksbuffet mit warmen und kalten Speisen",
+  "gallery_img5": "Entspanntes Restaurant mit internationaler und regionaler Küche",
+  "gallery_img6": "Komfortable Hotelbar und Lounge für Drinks am Abend",
+  "gallery_img7": "Flexible Tagungsräume für bis zu 120 Personen",
+  "gallery_img8": "Düsseldorfer Stadthighlights und Sehenswürdigkeiten in der Nähe",
+
+  "gallery_cta_title": "Erleben Sie das Hotel",
+  "gallery_cta_desc": "Planen Sie Ihren Düsseldorf-Aufenthalt mit komfortablen Zimmern, Gastronomie, Tagungen, Parkmöglichkeiten und hervorragender Verkehrsanbindung.",
+
+  "rooms_page_title": "Zimmer | Sunday Hotel Düsseldorf City Nord",
+  "rooms_meta": "Komfortable Zimmer im Sunday Hotel Düsseldorf City Nord, darunter Standard Einzelzimmer, Standard Doppelzimmer, Twin Zimmer, Superior Zimmer und Familienzimmer mit kostenfreiem WLAN, Arbeitsplatz und modernen Badezimmerausstattungen.",
+
+  "rooms_title": "Zimmer",
+  "rooms_desc": "Komfortable Zimmer für Geschäftsreisen, Freizeitaufenthalte und Zwischenstopps",
+  "rooms_cta": "Zimmer entdecken",
+
+  "rooms_label": "Unterkunft",
+  "rooms_heading": "Komfort & Bequemlichkeit",
+  "rooms_text": "Das Sunday Hotel Düsseldorf City Nord bietet 190 komfortable Nichtraucherzimmer. Alle Zimmer sind Doppelzimmer zur Einzel- oder Doppelnutzung und verfügen über kostenfreies WLAN, Flachbild-TV, einen großen Arbeitsplatz am Fenster sowie moderne Badezimmer mit großer Dusche, Haartrockner, Kosmetikspiegel und Wärmelampe.",
+
+  "room_types": "Zimmertypen",
+  "choose_room": "Wählen Sie Ihr Zimmer",
+
+  "filter_all": "Alle",
+  "filter_standard": "Standard",
+  "filter_twin": "Twin",
+  "filter_superior": "Superior",
+  "filter_family": "Familie",
+
+  "room_standard_single": "Standard Einzelzimmer",
+  "room_standard_single_desc": "Komfortables Zimmer zur Einzelnutzung mit kostenfreiem WLAN, Flachbild-TV, Arbeitsplatz und modernen Badezimmerausstattungen.",
+
+  "room_standard_double": "Standard Doppelzimmer",
+  "room_standard_double_desc": "Ein komfortables Doppelzimmer für ein oder zwei Gäste, ideal für Geschäftsreisen, Städtereisen und Kurzaufenthalte in Düsseldorf.",
+
+  "room_twin": "Twin Zimmer",
+  "room_twin_desc": "Praktische Twin-Unterkunft mit komfortabler Bettwäsche, Arbeitsplatz, kostenfreiem WLAN und modernen Badezimmerausstattungen.",
+
+  "room_superior": "Superior Zimmer",
+  "room_superior_desc": "Mehr Komfort für Gäste, die zusätzlichen Platz, eine entspannte Atmosphäre und praktische Annehmlichkeiten im Zimmer wünschen.",
+
+  "room_family": "Familienzimmer",
+  "room_family_desc": "Komfortable Unterkunft für Familien mit flexiblem Platz, kostenfreiem WLAN und haustierfreundlichen Optionen.",
+
+  "details_btn": "Details",
+  "book_room": "Jetzt buchen",
+
+  "rooms_dog_title": "Haustierfreundliche Zimmeroptionen",
+  "rooms_dog_desc1": "Kleine Hunde sind im Sunday Hotel Düsseldorf City Nord willkommen und machen das Hotel zu einer praktischen Wahl für Gäste, die mit Haustieren reisen.",
+  "rooms_dog_desc2": "Es gilt eine Gebühr von 12,00 € pro Hund und Nacht. Bitte informieren Sie das Hotel im Voraus, wenn Sie mit Ihrem Hund reisen, damit das Team Ihren Aufenthalt vorbereiten kann.",
+
+  "cta_title": "Buchen Sie Ihr Zimmer",
+  "cta_desc": "Genießen Sie einen komfortablen Aufenthalt mit guter Anbindung an die Düsseldorfer Innenstadt, Messe Düsseldorf, den Flughafen, den PSD Bank Dome und nahegelegene Sehenswürdigkeiten.",
+  
+  "gastro_page_title": "Gastronomie | Sunday Hotel Düsseldorf City Nord",
+  "gastro_meta_description": "Genießen Sie entspannte Gastronomie im Sunday Hotel Düsseldorf City Nord mit internationaler und regionaler Küche, reichhaltigem kontinentalem Frühstücksbuffet, Hotelbar und Gartenterrasse.",
+
+  "gastro_title": "Gastronomie",
+  "gastro_desc": "Restaurant, Frühstück, Hotelbar und Gartenterrasse in Düsseldorf.",
+  "gastro_cta": "Gastronomie ansehen",
+
+  "gastro_overview_title": "Entspannte Gastronomie für jeden Aufenthalt",
+  "gastro_overview_desc": "Das Sunday Hotel Düsseldorf City Nord bietet ein entspanntes und einladendes Restaurant mit internationaler und regionaler Küche, geeignet für Individualgäste, Geschäftsreisende und Gruppen. Gäste genießen außerdem eine komfortable Hotelbar, einen Loungebereich und eine Gartenterrasse.",
+
+  "gastro_rest1_title": "Frühstücksbuffet",
+  "gastro_rest1_desc": "Starten Sie den Tag mit einem reichhaltigen kontinentalen Frühstücksbuffet, das täglich serviert wird und warme sowie kalte Speisen für einen angenehmen Morgen vor Arbeit, Reise oder Sightseeing bietet.",
+  "gastro_rest1_time": "Täglich serviert",
+
+  "gastro_rest2_title": "Restaurant",
+  "gastro_rest2_desc": "Das Hotelrestaurant bietet ein entspanntes Dining-Erlebnis mit internationaler und regionaler Küche, ideal für Individualgäste und Gruppen.",
+  "gastro_rest2_time": "Öffnungszeiten können variieren",
+
+  "gastro_rest3_title": "Hotelbar & Lounge",
+  "gastro_rest3_desc": "Eine komfortable Lounge- und Barbereich bietet den perfekten Ort für Drinks am Abend nach Meetings, Reisen oder einem Tag in Düsseldorf.",
+  "gastro_rest3_time": "Öffnungszeiten können variieren",
+
+  "gastro_rest4_title": "Gartenterrasse",
+  "gastro_rest4_desc": "Genießen Sie eine entspannte Atmosphäre im Freien auf der Gartenterrasse, perfekt für eine ruhige Pause, lockere Gespräche und saisonale Momente.",
+  "gastro_rest4_time": "Saisonal verfügbar",
+
+  "gastro_rest5_title": "Gruppen-Dining",
+  "gastro_rest5_desc": "Das Restaurant eignet sich für Gruppen-Dining, Busreisen, Firmenaufenthalte und Veranstaltungsgäste. Maßgeschneiderte Catering-Lösungen sind auf Anfrage verfügbar.",
+  "gastro_rest5_time": "Auf Anfrage verfügbar",
+
+  "gastro_cta_title": "Planen Sie Ihr Gastronomie-Erlebnis",
+  "gastro_cta_desc": "Kontaktieren Sie das Sunday Hotel Düsseldorf City Nord für Restaurantdetails, Gruppen-Dining oder maßgeschneiderte Catering-Anfragen.",
+  
+  "group_meta_title": "Gruppenaufenthalte | Sunday Hotel Düsseldorf City Nord",
+  "group_meta_description": "Gruppenaufenthalte im Sunday Hotel Düsseldorf City Nord mit 190 komfortablen Zimmern, Tagungsmöglichkeiten, Gastronomie, Parkplätzen und sehr guter Anbindung an die Düsseldorfer Innenstadt, den Flughafen und die Messe Düsseldorf.",
+
+  "group_hero_title": "Gruppenaufenthalte",
+  "group_hero_text": "Smarte Unterkunft für Gruppen, Busreisen und Geschäftsreisende.",
+  "group_hero_btn": "Gruppenoptionen entdecken",
+
+  "group_overview_label": "Gruppen",
+  "group_overview_title": "Ideal für Gruppenreisen in Düsseldorf",
+  "group_overview_text": "Das Sunday Hotel Düsseldorf City Nord ist eine praktische Wahl für Gruppen, Busreisen, Geschäftsreisende und Transitgäste. Mit 190 komfortablen Nichtraucherzimmern, hervorragender Verkehrsanbindung, Restaurant, Hotelbar, Gartenterrasse und geräumiger Garage bietet das Hotel alles, was für einen einfachen und komfortablen Gruppenaufenthalt in Düsseldorf benötigt wird.",
+
+  "group_facilities_label": "Gruppeneinrichtungen",
+  "group_facilities_title": "Alles, was Ihre Gruppe braucht",
+
+  "group_card1_title": "190 komfortable Zimmer",
+  "group_card1_text": "Nichtraucher-Doppelzimmer zur Einzel- oder Doppelnutzung mit kostenfreiem WLAN, Flachbild-TV, Arbeitsplatz und modernen Badezimmerausstattungen.",
+
+  "group_card2_title": "Restaurant & Frühstück",
+  "group_card2_text": "Ein entspanntes Restaurant für internationale und regionale Küche, Gruppen-Dining und ein reichhaltiges kontinentales Frühstücksbuffet, das täglich serviert wird.",
+
+  "group_card3_title": "Tagungen & Events",
+  "group_card3_text": "Sechs flexible Einrichtungen für kleine und große Meetings, Firmenevents, Gruppenaufenthalte und Busreisen mit Kapazität für bis zu 120 Personen.",
+
+  "group_card4_title": "90 Parkplätze",
+  "group_card4_text": "Eine geräumige Garage mit 90 Parkplätzen macht die Anreise für Gruppen, Geschäftsreisende und Gäste mit dem Auto bequem.",
+
+  "group_access_label": "Einfache Anbindung",
+  "group_access1_title": "Business & Transit",
+  "group_access1_text": "Perfekte Anbindung an die Messe Düsseldorf, den Flughafen Düsseldorf, die Innenstadt, den PSD Bank Dome und die Esprit Arena mit Auto und öffentlichen Verkehrsmitteln.",
+
+  "group_access2_title": "Maßgeschneiderte Gruppenlösungen",
+  "group_access2_text": "Maßgeschneiderte Catering- und Unterkunftslösungen sind auf Anfrage für Busreisen, Firmenaufenthalte und Gruppenreisen verfügbar.",
+
+  "group_cta_title": "Planen Sie Ihren Gruppenaufenthalt",
+  "group_cta_text": "Kontaktieren Sie das Sunday Hotel Düsseldorf City Nord für Gruppenanfragen, Tagungen, Catering und Unterkunftslösungen.",
+  "group_cta_btn": "Gruppenanfragen",
+  
+  "events_meta_title": "Tagungen & Veranstaltungen | Sunday Hotel Düsseldorf City Nord",
+  "events_meta_description": "Veranstalten Sie Meetings, Gruppenaufenthalte, Busreisen und Firmenevents im Sunday Hotel Düsseldorf City Nord mit flexiblen Einrichtungen für bis zu 120 Personen.",
+
+  "events_hero_title": "Tagungen & Veranstaltungen",
+  "events_hero_text": "Flexible Räume für Meetings, Gruppen und Firmenevents in Düsseldorf.",
+  "events_hero_btn": "Räume entdecken",
+
+  "events_overview_title": "Smarte Event-Einrichtungen in Düsseldorf City Nord",
+  "events_overview_text1": "Das Sunday Hotel Düsseldorf City Nord bietet sechs flexible Einrichtungen für kleine und große Meetings, Gruppenaufenthalte, Busreisen und Firmenevents. Mit Kapazität für Meetings mit bis zu 120 Personen ist das Hotel eine praktische Wahl für Geschäftsreisende und Veranstaltungsplaner.",
+  "events_overview_text2": "Maßgeschneiderte Catering- und Unterkunftslösungen sind auf Anfrage verfügbar, unterstützt durch komfortable Zimmer, Restaurant, Hotelbar, Gartenterrasse und gute Anbindung an die Messe Düsseldorf, den Flughafen, die Innenstadt und den PSD Bank Dome.",
+
+  "events_spaces_label": "Eventräume",
+  "events_space1_title": "Flexible Tagungsräume",
+  "events_space1_text": "Sechs anpassbare Einrichtungen für kleine und große Meetings, Seminare, Workshops und Firmenveranstaltungen.",
+  "events_space2_title": "Konferenzeinrichtungen",
+  "events_space2_text": "Meetingräume für bis zu 120 Personen mit flexiblen Layouts und maßgeschneiderter Unterstützung für Ihre Veranstaltung.",
+  "events_space3_title": "Gruppenaufenthalte & Busreisen",
+  "events_space3_text": "Ideal für Gruppenreisen, Busreisen und Firmenaufenthalte mit Unterkunfts- und Dining-Angeboten vor Ort.",
+
+  "events_facilities_label": "Ausstattung",
+  "events_amenity1_title": "Bis zu 120 Personen",
+  "events_amenity1_text": "Flexible Event-Einrichtungen für kleine Meetings und größere Veranstaltungen.",
+  "events_amenity2_title": "190 Zimmer",
+  "events_amenity2_text": "Komfortable Nichtraucherzimmer zur Einzel- oder Doppelnutzung, ideal für Geschäfts- und Gruppenaufenthalte.",
+  "events_amenity3_title": "Maßgeschneidertes Catering",
+  "events_amenity3_text": "Catering-Lösungen sind auf Anfrage über das Hotelrestaurant und das Dining-Team verfügbar.",
+  "events_amenity4_title": "90 Parkplätze",
+  "events_amenity4_text": "Eine geräumige Garage macht die Anreise für Eventgäste mit dem Auto bequem.",
+
+  "events_capacity_label": "Kapazität",
+  "events_table_room": "Raum",
+  "events_table_capacity": "Kapazität",
+  "events_table_best_for": "Geeignet für",
+  "events_table_row1_space": "Flexible Tagungseinrichtungen",
+  "events_table_row1_capacity": "Bis zu 120 Personen",
+  "events_table_row1_best": "Meetings, Seminare und Firmenevents",
+  "events_table_row2_space": "Gruppen-Dining-Bereiche",
+  "events_table_row2_capacity": "Auf Anfrage",
+  "events_table_row2_best": "Gruppenessen und Busreisen",
+  "events_table_row3_space": "Unterkunftspakete",
+  "events_table_row3_capacity": "190 Zimmer",
+  "events_table_row3_best": "Firmenaufenthalte und Gruppenreisen",
+  "events_capacity_note": "Finale Raumaufstellung, Catering und Unterkunftsarrangements sind auf Anfrage verfügbar.",
+
+  "events_packages_label": "Event-Unterstützung",
+  "events_package1_title": "Meeting-Pakete",
+  "events_package1_item1": "Flexible Raumaufstellung",
+  "events_package1_item2": "Catering-Optionen auf Anfrage",
+  "events_package1_item3": "Unterkunft für Geschäftsreisende",
+  "events_package2_title": "Gruppenaufenthalte",
+  "events_package2_item1": "Geeignet für Busreisen und Gruppenreisen",
+  "events_package2_item2": "Restaurant- und Frühstücksoptionen",
+  "events_package2_item3": "Bequeme Garagenparkplätze",
+  "events_package3_title": "Firmenevents",
+  "events_package3_item1": "Anbindung an Messe Düsseldorf und Flughafen",
+  "events_package3_item2": "Komfortable Zimmer mit Arbeitsplatz",
+  "events_package3_item3": "Restaurant, Hotelbar und Gartenterrasse",
+
+  "events_cta_title": "Planen Sie Ihr Event",
+  "events_cta_text": "Kontaktieren Sie das Sunday Hotel Düsseldorf City Nord für Meetings, Gruppenanfragen, Firmenevents und maßgeschneidertes Catering.",
+  "events_cta_btn": "Kontakt"
+
+}
