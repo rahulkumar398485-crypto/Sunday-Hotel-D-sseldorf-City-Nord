@@ -180,6 +180,25 @@
 
   "ta_details": "Details",
 
+
+"ta_citycentre_title": "Düsseldorf City Centre",
+"ta_citycentre_modal": "Düsseldorf City Centre offers shopping, dining, culture and business connections, making it a convenient destination for both leisure and business travellers.",
+
+"ta_oldtown_title": "Old Town",
+"ta_oldtown_modal": "Düsseldorf Old Town is known for its historic streets, restaurants, bars and lively atmosphere, ideal for exploring the city’s local character.",
+
+"ta_rheintower_title": "Rhein Tower",
+"ta_rheintower_modal": "The Rhein Tower is one of Düsseldorf’s most famous landmarks and offers impressive panoramic views over the city and the Rhine.",
+
+"ta_rhinebanks_title": "Banks of the Rhine",
+"ta_rhinebanks_modal": "The banks of the Rhine are perfect for scenic walks, relaxed cafés, riverside views and discovering Düsseldorf’s urban atmosphere.",
+
+"ta_koenigsallee_title": "Königsallee",
+"ta_koenigsallee_modal": "Königsallee is Düsseldorf’s elegant shopping boulevard, known for luxury boutiques, beautiful city views and a refined atmosphere.",
+
+"ta_gehry_title": "Gehry Buildings",
+"ta_gehry_modal": "The Gehry Buildings in Düsseldorf’s Media Harbour are a striking architectural highlight and a popular attraction for design and architecture enthusiasts.",
+
   "ta_cta_title": "Plan Your Düsseldorf Stay",
   "ta_cta_desc": "Stay close to Düsseldorf highlights with comfortable rooms, dining, parking and excellent transport connections.",
   
@@ -250,6 +269,23 @@
   "details_btn": "Details",
   "book_room": "Book Now",
 
+ 
+
+"room_standard_single_modal_title": "Standard Single Room",
+"room_standard_single_modal": "A comfortable room for single occupancy with comfortable bedding, free Wi-Fi, flat-screen TV, a workspace desk by the window and a modern bathroom with large shower, hairdryer, vanity mirror and heat lamp.",
+
+"room_standard_double_modal_title": "Standard Double Room",
+"room_standard_double_modal": "A comfortable double room for single or double occupancy, ideal for business travellers, leisure guests and transit stays. Includes free Wi-Fi, flat-screen TV, workspace desk and modern bathroom amenities.",
+
+"room_twin_modal_title": "Twin Room",
+"room_twin_modal": "A practical twin room with comfortable bedding, free Wi-Fi, flat-screen TV, workspace desk and modern bathroom facilities, ideal for colleagues, friends or group travellers.",
+
+"room_superior_modal_title": "Superior Room",
+"room_superior_modal": "A spacious room option with enhanced comfort, modern amenities, free Wi-Fi, flat-screen TV, workspace desk and a relaxing atmosphere for work or leisure.",
+
+"room_family_modal_title": "Family Room",
+"room_family_modal": "A comfortable room option for families with flexible space, comfortable bedding, free Wi-Fi, flat-screen TV, modern bathroom amenities and pet-friendly options available.",
+
   "rooms_dog_title": "Pet-Friendly Room Options",
   "rooms_dog_desc1": "Small dogs are welcome at Sunday Hotel Düsseldorf City Nord, making the hotel a convenient choice for guests travelling with pets.",
   "rooms_dog_desc2": "A charge of €12.00 per dog per night applies. Please inform the hotel in advance when travelling with your dog so the team can prepare your stay.",
@@ -262,18 +298,17 @@
 
 
   "gastro_title": "Dining",
-  "gastro_desc": "Restaurant, breakfast, hotel bar and garden terrace in Düsseldorf.",
+ 
   "gastro_cta": "View Dining Options",
 
   "gastro_overview_title": "Relaxed Dining for Every Stay",
-  "gastro_overview_desc": "Sunday Hotel Düsseldorf City Nord offers a relaxed and welcoming restaurant with international and regional cuisine, suitable for individual guests, business travellers and group dining experiences. Guests can also enjoy a comfortable hotel bar, lounge area and garden terrace.",
+ 
 
   "gastro_rest1_title": "Breakfast Buffet",
   "gastro_rest1_desc": "Start your day with a rich continental breakfast buffet served daily, featuring hot and cold selections for a comfortable morning before work, travel or sightseeing.",
   "gastro_rest1_time": "Served daily",
 
-  "gastro_rest2_title": "Restaurant",
-  "gastro_rest2_desc": "The hotel restaurant offers a relaxed dining experience with international and regional cuisine, ideal for both individual guests and group dining.",
+  
   "gastro_rest2_time": "Opening hours may vary",
 
   "gastro_rest3_title": "Hotel Bar & Lounge",
@@ -288,8 +323,7 @@
   "gastro_rest5_desc": "The restaurant is suitable for group dining experiences, coach tours, corporate stays and event guests, with tailored catering solutions available upon request.",
   "gastro_rest5_time": "Available upon request",
 
-  "gastro_cta_title": "Plan Your Dining Experience",
-  "gastro_cta_desc": "Contact Sunday Hotel Düsseldorf City Nord for restaurant details, group dining or tailored catering requests.",
+
   
   "group_meta_title": "Group Stays | Sunday Hotel Düsseldorf City Nord",
   "group_meta_description": "Group stays at Sunday Hotel Düsseldorf City Nord with 190 comfortable rooms, meeting facilities, dining, parking and excellent access to Düsseldorf city centre, airport and Messe Düsseldorf.",
@@ -327,6 +361,18 @@
   "group_cta_title": "Plan Your Group Stay",
   "group_cta_text": "Contact Sunday Hotel Düsseldorf City Nord for group enquiries, meetings, catering and accommodation solutions.",
   "group_cta_btn": "Group Enquiries",
+
+  "gastro_desc": "Breakfast, hotel bar and group dining options at Sunday Hotel Düsseldorf City Nord.",
+
+"gastro_overview_desc": "Sunday Hotel Düsseldorf City Nord offers a rich breakfast buffet, a comfortable hotel bar with à la carte dining and a relaxing garden terrace. The restaurant area is available exclusively for group dinners, coach tours and corporate events.",
+
+"gastro_rest2_title": "Restaurant",
+
+"gastro_rest2_desc": "À la carte dining is available in the hotel bar and lounge area. The restaurant space is reserved exclusively for group dinners, coach tours and corporate events.",
+
+"gastro_cta_title": "Hotel Bar & Group Dining",
+
+"gastro_cta_desc": "Contact Sunday Hotel Düsseldorf City Nord for group dining enquiries, catering requests or hotel bar information.",
 
   "events_meta_title": "Meetings & Events | Sunday Hotel Düsseldorf City Nord",
   "events_meta_description": "Host meetings, group stays, coach tours and corporate events at Sunday Hotel Düsseldorf City Nord with flexible facilities for up to 120 people.",

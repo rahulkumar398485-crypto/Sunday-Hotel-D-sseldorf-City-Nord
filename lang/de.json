@@ -182,6 +182,24 @@
 
   "ta_details": "Details",
 
+"ta_citycentre_title": "Düsseldorfer Innenstadt",
+"ta_citycentre_modal": "Die Düsseldorfer Innenstadt bietet Einkaufsmöglichkeiten, Gastronomie, Kultur und Geschäftsanbindungen und ist somit ein ideales Ziel für Geschäfts- und Freizeitreisende.",
+
+"ta_oldtown_title": "Altstadt",
+"ta_oldtown_modal": "Die Düsseldorfer Altstadt ist bekannt für ihre historischen Straßen, Restaurants, Bars und die lebendige Atmosphäre – ideal, um den lokalen Charme der Stadt zu entdecken.",
+
+"ta_rheintower_title": "Rheinturm",
+"ta_rheintower_modal": "Der Rheinturm ist eines der bekanntesten Wahrzeichen Düsseldorfs und bietet einen beeindruckenden Panoramablick über die Stadt und den Rhein.",
+
+"ta_rhinebanks_title": "Rheinufer",
+"ta_rhinebanks_modal": "Das Rheinufer eignet sich perfekt für Spaziergänge, entspannte Cafés, schöne Ausblicke am Fluss und das Erleben der urbanen Atmosphäre Düsseldorfs.",
+
+"ta_koenigsallee_title": "Königsallee",
+"ta_koenigsallee_modal": "Die Königsallee ist Düsseldorfs elegante Einkaufsboulevard und bekannt für luxuriöse Boutiquen, schöne Stadtansichten und eine stilvolle Atmosphäre.",
+
+"ta_gehry_title": "Gehry-Bauten",
+"ta_gehry_modal": "Die Gehry-Bauten im Düsseldorfer MedienHafen sind ein beeindruckendes architektonisches Highlight und ein beliebtes Ziel für Design- und Architekturliebhaber.",
+
   "ta_cta_title": "Planen Sie Ihren Aufenthalt in Düsseldorf",
   "ta_cta_desc": "Übernachten Sie nahe Düsseldorfer Highlights mit komfortablen Zimmern, Dining, Parkmöglichkeiten und hervorragender Verkehrsanbindung.",
 
@@ -252,6 +270,21 @@
   "details_btn": "Details",
   "book_room": "Jetzt buchen",
 
+"room_standard_single_modal_title": "Standard Einzelzimmer",
+"room_standard_single_modal": "Ein komfortables Zimmer für Einzelbelegung mit gemütlicher Bettwäsche, kostenfreiem WLAN, Flachbild-TV, Arbeitsplatz am Fenster sowie modernem Badezimmer mit großer Dusche, Haartrockner, Kosmetikspiegel und Wärmelampe.",
+
+"room_standard_double_modal_title": "Standard Doppelzimmer",
+"room_standard_double_modal": "Ein komfortables Doppelzimmer für Einzel- oder Doppelbelegung, ideal für Geschäftsreisende, Urlaubsgäste und Zwischenaufenthalte. Inklusive kostenfreiem WLAN, Flachbild-TV, Arbeitsplatz und moderner Badezimmereinrichtung.",
+
+"room_twin_modal_title": "Zweibettzimmer",
+"room_twin_modal": "Ein praktisches Zweibettzimmer mit komfortabler Bettwäsche, kostenfreiem WLAN, Flachbild-TV, Arbeitsplatz und modernen Badezimmerausstattungen – ideal für Kollegen, Freunde oder Gruppenreisende.",
+
+"room_superior_modal_title": "Superior Zimmer",
+"room_superior_modal": "Eine geräumige Zimmeroption mit erhöhtem Komfort, modernen Annehmlichkeiten, kostenfreiem WLAN, Flachbild-TV, Arbeitsplatz und entspannter Atmosphäre für Arbeit oder Erholung.",
+
+"room_family_modal_title": "Familienzimmer",
+"room_family_modal": "Eine komfortable Zimmeroption für Familien mit flexiblem Platzangebot, gemütlicher Bettwäsche, kostenfreiem WLAN, Flachbild-TV, modernen Badezimmerausstattungen sowie haustierfreundlichen Optionen.",
+
   "rooms_dog_title": "Haustierfreundliche Zimmeroptionen",
   "rooms_dog_desc1": "Kleine Hunde sind im Sunday Hotel Düsseldorf City Nord willkommen und machen das Hotel zu einer praktischen Wahl für Gäste, die mit Haustieren reisen.",
   "rooms_dog_desc2": "Es gilt eine Gebühr von 12,00 € pro Hund und Nacht. Bitte informieren Sie das Hotel im Voraus, wenn Sie mit Ihrem Hund reisen, damit das Team Ihren Aufenthalt vorbereiten kann.",
@@ -263,18 +296,15 @@
   "gastro_meta_description": "Genießen Sie entspannte Gastronomie im Sunday Hotel Düsseldorf City Nord mit internationaler und regionaler Küche, reichhaltigem kontinentalem Frühstücksbuffet, Hotelbar und Gartenterrasse.",
 
   "gastro_title": "Gastronomie",
-  "gastro_desc": "Restaurant, Frühstück, Hotelbar und Gartenterrasse in Düsseldorf.",
+ 
   "gastro_cta": "Gastronomie ansehen",
 
   "gastro_overview_title": "Entspannte Gastronomie für jeden Aufenthalt",
-  "gastro_overview_desc": "Das Sunday Hotel Düsseldorf City Nord bietet ein entspanntes und einladendes Restaurant mit internationaler und regionaler Küche, geeignet für Individualgäste, Geschäftsreisende und Gruppen. Gäste genießen außerdem eine komfortable Hotelbar, einen Loungebereich und eine Gartenterrasse.",
-
-  "gastro_rest1_title": "Frühstücksbuffet",
+   "gastro_rest1_title": "Frühstücksbuffet",
   "gastro_rest1_desc": "Starten Sie den Tag mit einem reichhaltigen kontinentalen Frühstücksbuffet, das täglich serviert wird und warme sowie kalte Speisen für einen angenehmen Morgen vor Arbeit, Reise oder Sightseeing bietet.",
   "gastro_rest1_time": "Täglich serviert",
 
-  "gastro_rest2_title": "Restaurant",
-  "gastro_rest2_desc": "Das Hotelrestaurant bietet ein entspanntes Dining-Erlebnis mit internationaler und regionaler Küche, ideal für Individualgäste und Gruppen.",
+  
   "gastro_rest2_time": "Öffnungszeiten können variieren",
 
   "gastro_rest3_title": "Hotelbar & Lounge",
@@ -289,8 +319,6 @@
   "gastro_rest5_desc": "Das Restaurant eignet sich für Gruppen-Dining, Busreisen, Firmenaufenthalte und Veranstaltungsgäste. Maßgeschneiderte Catering-Lösungen sind auf Anfrage verfügbar.",
   "gastro_rest5_time": "Auf Anfrage verfügbar",
 
-  "gastro_cta_title": "Planen Sie Ihr Gastronomie-Erlebnis",
-  "gastro_cta_desc": "Kontaktieren Sie das Sunday Hotel Düsseldorf City Nord für Restaurantdetails, Gruppen-Dining oder maßgeschneiderte Catering-Anfragen.",
   
   "group_meta_title": "Gruppenaufenthalte | Sunday Hotel Düsseldorf City Nord",
   "group_meta_description": "Gruppenaufenthalte im Sunday Hotel Düsseldorf City Nord mit 190 komfortablen Zimmern, Tagungsmöglichkeiten, Gastronomie, Parkplätzen und sehr guter Anbindung an die Düsseldorfer Innenstadt, den Flughafen und die Messe Düsseldorf.",
@@ -328,6 +356,19 @@
   "group_cta_title": "Planen Sie Ihren Gruppenaufenthalt",
   "group_cta_text": "Kontaktieren Sie das Sunday Hotel Düsseldorf City Nord für Gruppenanfragen, Tagungen, Catering und Unterkunftslösungen.",
   "group_cta_btn": "Gruppenanfragen",
+
+
+  "gastro_desc": "Frühstück, Hotelbar und Gruppen-Dining im Sunday Hotel Düsseldorf City Nord.",
+
+"gastro_overview_desc": "Das Sunday Hotel Düsseldorf City Nord bietet ein reichhaltiges Frühstücksbuffet, eine komfortable Hotelbar mit À-la-carte-Angebot und eine entspannende Gartenterrasse. Der Restaurantbereich steht ausschließlich für Gruppenessen, Busreisen und Firmenveranstaltungen zur Verfügung.",
+
+"gastro_rest2_title": "Restaurant",
+
+"gastro_rest2_desc": "À-la-carte-Speisen werden in der Hotelbar und im Loungebereich serviert. Der Restaurantbereich ist ausschließlich für Gruppenessen, Busreisen und Firmenveranstaltungen reserviert.",
+
+"gastro_cta_title": "Hotelbar & Gruppen-Dining",
+
+"gastro_cta_desc": "Kontaktieren Sie das Sunday Hotel Düsseldorf City Nord für Gruppenanfragen, Catering-Wünsche oder Informationen zur Hotelbar.",
   
   "events_meta_title": "Tagungen & Veranstaltungen | Sunday Hotel Düsseldorf City Nord",
   "events_meta_description": "Veranstalten Sie Meetings, Gruppenaufenthalte, Busreisen und Firmenevents im Sunday Hotel Düsseldorf City Nord mit flexiblen Einrichtungen für bis zu 120 Personen.",
